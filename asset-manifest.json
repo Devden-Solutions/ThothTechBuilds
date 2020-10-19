@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Devden-Solutions/ThothTechHandLandmarkBuilds/static/css/main.9b1ab70d.chunk.css",
-    "main.js": "/Devden-Solutions/ThothTechHandLandmarkBuilds/static/js/main.98864148.chunk.js",
-    "main.js.map": "/Devden-Solutions/ThothTechHandLandmarkBuilds/static/js/main.98864148.chunk.js.map",
+    "main.js": "/Devden-Solutions/ThothTechHandLandmarkBuilds/static/js/main.63987ac0.chunk.js",
+    "main.js.map": "/Devden-Solutions/ThothTechHandLandmarkBuilds/static/js/main.63987ac0.chunk.js.map",
     "runtime-main.js": "/Devden-Solutions/ThothTechHandLandmarkBuilds/static/js/runtime-main.818ebe2b.js",
     "runtime-main.js.map": "/Devden-Solutions/ThothTechHandLandmarkBuilds/static/js/runtime-main.818ebe2b.js.map",
-    "static/js/2.b09b0eaf.chunk.js": "/Devden-Solutions/ThothTechHandLandmarkBuilds/static/js/2.b09b0eaf.chunk.js",
-    "static/js/2.b09b0eaf.chunk.js.map": "/Devden-Solutions/ThothTechHandLandmarkBuilds/static/js/2.b09b0eaf.chunk.js.map",
+    "static/js/2.e3477e34.chunk.js": "/Devden-Solutions/ThothTechHandLandmarkBuilds/static/js/2.e3477e34.chunk.js",
+    "static/js/2.e3477e34.chunk.js.map": "/Devden-Solutions/ThothTechHandLandmarkBuilds/static/js/2.e3477e34.chunk.js.map",
     "index.html": "/Devden-Solutions/ThothTechHandLandmarkBuilds/index.html",
-    "precache-manifest.95c44e3594290c121fac02c3c7d2fb24.js": "/Devden-Solutions/ThothTechHandLandmarkBuilds/precache-manifest.95c44e3594290c121fac02c3c7d2fb24.js",
+    "precache-manifest.0f6fe1f08b301f1390567a686ef66666.js": "/Devden-Solutions/ThothTechHandLandmarkBuilds/precache-manifest.0f6fe1f08b301f1390567a686ef66666.js",
     "service-worker.js": "/Devden-Solutions/ThothTechHandLandmarkBuilds/service-worker.js",
     "static/css/main.9b1ab70d.chunk.css.map": "/Devden-Solutions/ThothTechHandLandmarkBuilds/static/css/main.9b1ab70d.chunk.css.map",
-    "static/js/2.b09b0eaf.chunk.js.LICENSE.txt": "/Devden-Solutions/ThothTechHandLandmarkBuilds/static/js/2.b09b0eaf.chunk.js.LICENSE.txt"
+    "static/js/2.e3477e34.chunk.js.LICENSE.txt": "/Devden-Solutions/ThothTechHandLandmarkBuilds/static/js/2.e3477e34.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.818ebe2b.js",
-    "static/js/2.b09b0eaf.chunk.js",
+    "static/js/2.e3477e34.chunk.js",
     "static/css/main.9b1ab70d.chunk.css",
-    "static/js/main.98864148.chunk.js"
+    "static/js/main.63987ac0.chunk.js"
   ]
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Devden-Solutions/ThothTechHandLandmarkBuilds/precache-manifest.95c44e3594290c121fac02c3c7d2fb24.js"
+  "/Devden-Solutions/ThothTechHandLandmarkBuilds/precache-manifest.0f6fe1f08b301f1390567a686ef66666.js"
 );
 
 self.addEventListener('message', (event) => {
